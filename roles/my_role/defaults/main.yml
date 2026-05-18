@@ -1,3 +1,3 @@
-#SPDX-License-Identifier: MIT-0
 ---
-# defaults file for roles/my_role
+module_path: "/tmp/hello.txt"
+module_content: "hello from role"
