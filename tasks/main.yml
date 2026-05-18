@@ -1,0 +1,6 @@
+---
+- name: Run custom module
+  my_own_namespace.yandex_cloud_elk.my_own_module:
+    path: "{{ module_path }}"
+    content: "{{ module_content }}"
+

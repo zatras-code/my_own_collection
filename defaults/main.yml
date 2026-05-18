@@ -1,0 +1,3 @@
+---
+module_path: "/tmp/hello.txt"
+module_content: "hello from role"
